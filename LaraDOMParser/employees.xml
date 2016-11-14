@@ -1,0 +1,19 @@
+<personal>
+	<employee type="temporary">
+		<name>Ramesh</name>
+		<id>123</id>
+		<age>29</age>
+	</employee>
+
+	<employee type="permanent">
+		<name>Shiva</name>
+		<id>143</id>
+		<age>23</age>
+	</employee>
+
+	<employee type="permanent">
+		<name>Vasanth</name>
+		<id>117</id>
+		<age>20</age>
+	</employee>
+</personal>

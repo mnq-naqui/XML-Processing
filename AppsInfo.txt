@@ -1,0 +1,18 @@
+Observe the apps in this way:-
+JAX-P:-
+=======
+1.SAX:-
+
+1.POSAX--------->Here only XML parsing is there no validation,since only XML is provided.ie.IF u provide string on place of integer
+			data is read by the parser.
+2.LaraXML-------->Here only XML parsing is there no validation,since only XML is provided.ie.IF u provide string on place of integer
+			data is read by the parser.eg in place of book id 101 try asd and run
+3.SAXParser------->Here validation is also there
+
+2.DOM:-
+
+
+4.DOMParser----------->parsing only one element
+5.LaraDOMWriting------->Modifying the element of XML
+6.LaraDOMParser--------->Parsing the XML document
+7.PODom----------------->parsing,modifying and validation 
